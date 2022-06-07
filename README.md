@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jincy-k01
+- 👋 Hi, I’m @Jincy K K
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
